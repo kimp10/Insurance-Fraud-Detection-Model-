@@ -1,7 +1,7 @@
 # Insurance-Fraud-Detection-Model-
 
 
-# Introduction
+### Introduction
 This repository contains a Python-based fraud detection model designed to identify fraudulent insurance claims. The model utilizes a dataset with various features that describe the context of insurance claims, including temporal information, personal details of the policyholder, and characteristics of the policy and vehicle involved.
 
 Dataset Description:  The dataset used for training and evaluating the fraud detection model includes the following features:
