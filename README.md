@@ -2,7 +2,7 @@
 
 
 ### Introduction
-This repository contains a Python-based fraud detection model designed to identify fraudulent insurance claims. The model utilizes a dataset with various features that describe the context of insurance claims, including temporal information, personal details of the policyholder, and characteristics of the policy and vehicle involved.
+This repository contains a Python-based fraud detection model designed to identify fraudulent insurance claims. The model utilises a dataset with various features that describe the context of insurance claims, including temporal information, personal details of the policyholder, and characteristics of the policy and vehicle involved.
 
 Dataset Description:  The dataset used for training and evaluating the fraud detection model includes the following features:
 1. Month: The month in which the accident occurred.
@@ -40,36 +40,27 @@ Dataset Description:  The dataset used for training and evaluating the fraud det
 33. BasePolicy: The base policy amount.
 
 **Model Overview:**
-The fraud detection model is built using machine learning algorithms that can handle classification tasks. The model is trained to predict the FraudFound_P column, which is the target variable indicating whether a claim is fraudulent.
+To be added
+
 
 **Features Used:**
-The model utilizes a subset of the features listed above. Feature selection is performed to identify the most relevant and predictive features for detecting fraud.
+To be added
 
 **Model Training:**
-The model is trained using a supervised learning approach. The training process involves splitting the dataset into training and testing sets, preprocessing the data, and applying machine learning algorithms to learn patterns that distinguish fraudulent claims from legitimate ones.
+To be added
+
 
 **Evaluation Metrics:**
-The performance of the model is evaluated using metrics such as accuracy, precision, recall, F1 score, and the area under the ROC curve (AUC). These metrics help in assessing the model's ability to correctly identify fraudulent claims.
+To be added
+
 
 **Usage:**
-To use the fraud detection model, follow these steps:
-
-Clone this repository to your local machine.
-
-Install the required Python packages by running pip install -r requirements.txt.
-
-Prepare your dataset in the same format as the training data.
-
-Run the model training and evaluation scripts provided in the repository.
-
-Use the trained model to predict fraudulent claims in new data.
+requerement file to be added
 
 **Contributing:**
-Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
+To be added
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+To be added
 
 Acknowledgments
-Thanks to the contributors who helped with the development and testing of the model.
-Acknowledgment to the dataset providers (if applicable).
+To be added
