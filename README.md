@@ -39,28 +39,3 @@ Dataset Description:  The dataset used for training and evaluating the fraud det
 32. Year: The year in which the accident occurred.
 33. BasePolicy: The base policy amount.
 
-**Model Overview:**
-To be added
-
-
-**Features Used:**
-To be added
-
-**Model Training:**
-To be added
-
-
-**Evaluation Metrics:**
-To be added
-
-
-**Usage:**
-requerement file to be added
-
-**Contributing:**
-To be added
-License
-To be added
-
-Acknowledgments
-To be added
